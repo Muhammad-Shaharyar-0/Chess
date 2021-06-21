@@ -1,6 +1,6 @@
 # Chess
 Chess Game With MinMax Algorithm
-A chess game made using python
+A chess game made using python3.7
 Major Libararies required: tkinter
 The chess game has two mode player vs AI and player vs Player
 For player vs AI. AI IS Implemented using min max algorithm 
