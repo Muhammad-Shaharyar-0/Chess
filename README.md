@@ -5,3 +5,4 @@ Major Libararies required: tkinter
 The chess game has two mode player vs AI and player vs Player
 For player vs AI. AI IS Implemented using min max algorithm 
 Using alpha beta pruning with search depth set to 2
+https://youtu.be/8B7NuDPjHiY
